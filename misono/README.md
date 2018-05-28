@@ -1,5 +1,5 @@
-This is a minimal standalone version of the 3DHeatmap example
-on [deck.gl](http://deck.gl) website.
+This is a data visualization project based on the code from the [deck.gl](http://deck.gl) website.
+The goal is to create an animated image showing the data collected from smart houses in Urawa-Misono over the course of a year. 
 
 ### Usage
 - Copy the content of this folder to your project.
